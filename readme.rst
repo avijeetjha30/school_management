@@ -16,13 +16,13 @@ Project setup instructions here.
 
         -> set redis password (sudo redis-cli / config set requirepass redis_password) for linux  
 
-        -> It used to blacklist the access token after logout and password reset
+        -> It used to blacklist the access token after logout
 
 4.  Run
         -> inside scool management directory run command  
 
         -> mv env.txt .env  
-        
+
         -> set all environment veriable according to you
 
 5.  Run
